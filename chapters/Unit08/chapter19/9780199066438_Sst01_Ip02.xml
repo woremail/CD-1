@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Important places</b>]]></text>
+<text><![CDATA[Our neighbourhood has many important places.]]></text>
+<text><![CDATA[Hospital]]></text>
+<text><![CDATA[Police station]]></text>
+<text><![CDATA[Bus stop]]></text>
+
+<text><![CDATA[<b>Transport</b>]]></text>
+
+<!-- <text><![CDATA[Vehicles help us to go from one place to another on land such as cars, trains, buses, and motorcycles.]]></text> -->
+
+<text><![CDATA[Vehicles such as cars, trains, buses, and motorcycles help us to go from one place to another on land.]]></text>
+<text><![CDATA[Aeroplanes and helicopters can fly.]]></text>
+<text><![CDATA[Ships and boats move on water.]]></text>
+
+</data>
+</framexml>

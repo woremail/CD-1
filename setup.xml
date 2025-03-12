@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny - the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to help you learn more about your health, family,]]></pop>
+<pop><![CDATA[school, and other parts of your daily life.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[Now click any one of the lessons.]]></pop>
+<pop><![CDATA[Click any one of the units.]]></pop>
+<pop><![CDATA[Now click the lesson.]]></pop>
+
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : Clean and Healthy]]></name>
+	<main><![CDATA[chapters/Unit02/chapter04/9780199066438_Sst01_Kepcln01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter05/9780199066438_Sst01_Food01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter06/9780199066438_Sst01_Clth01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 4 : Keeping clean]]></name>
+		<path><![CDATA[chapters/Unit02/chapter04/9780199066438_Sst01_Kepcln02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter04/9780199066438_Sst01_Kepcln03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 5 : Food]]></name>
+		<path><![CDATA[chapters/Unit02/chapter05/9780199066438_Sst01_Food02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter05/9780199066438_Sst01_Food03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 6 : Clothes]]></name>
+		<path><![CDATA[chapters/Unit02/chapter06/9780199066438_Sst01_Clth02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter06/9780199066438_Sst01_Clth03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : Where We Live]]></name>
+	<main><![CDATA[chapters/Unit03/chapter07/9780199066438_Sst01_Hus01.swf]]></main>
+	<main><![CDATA[chapters/Unit03/chapter08/9780199066438_Sst01_Tng01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 7 : Houses]]></name>
+		<path><![CDATA[chapters/Unit03/chapter07/9780199066438_Sst01_Hus02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter07/9780199066438_Sst01_Hus03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 8 : Things]]></name>
+		<path><![CDATA[chapters/Unit03/chapter08/9780199066438_Sst01_Tng02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter08/9780199066438_Sst01_Tng03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[05]]></Num>
+	<name><![CDATA[Unit 5 : Work]]></name>
+	<main><![CDATA[chapters/Unit05/chapter11/9780199066438_Sst01_WJ01.swf]]></main>	
+	<main><![CDATA[chapters/Unit05/chapter12/9780199066438_Sst01_WJ01.swf]]></main>	
+	<lesson>
+		<name><![CDATA[Lesson 11-12 : Work and Jobs]]></name>
+		<path><![CDATA[chapters/Unit05/chapter11/9780199066438_Sst01_WJ02.swf]]></path>
+		<path><![CDATA[chapters/Unit05/chapter11/9780199066438_Sst01_WJ03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 12 : Jobs]]></name>
+		<path><![CDATA[chapters/Unit05/chapter12/9780199066438_Sst01_WJ02.swf]]></path>
+		<path><![CDATA[chapters/Unit05/chapter12/9780199066438_Sst01_WJ03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[07]]></Num>
+	<name><![CDATA[Unit 7 : Plants and Animals]]></name>
+	<main><![CDATA[chapters/Unit07/chapter17/9780199066438_Sst01_Ah01.swf]]></main>	
+	<lesson>
+		<name><![CDATA[Lesson 17 : Animal homes]]></name>
+		<path><![CDATA[chapters/Unit07/chapter17/9780199066438_Sst01_Ah02.swf]]></path>
+		<path><![CDATA[chapters/Unit07/chapter17/9780199066438_Sst01_Ah03.swf]]></path>
+	</lesson>	
+</unit>
+
+
+<unit>
+	<Num><![CDATA[08]]></Num>
+	<name><![CDATA[Unit 8 : City and Village Life]]></name>
+	<main><![CDATA[chapters/Unit08/chapter18/9780199066438_Sst01_CV01.swf]]></main>
+	<main><![CDATA[chapters/Unit08/chapter19/9780199066438_Sst01_Ip01.swf]]></main>
+	<main><![CDATA[chapters/Unit08/chapter20/9780199066438_Sst01_Tnspt01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 18 : City and village]]></name>
+		<path><![CDATA[chapters/Unit08/chapter18/9780199066438_Sst01_CV02.swf]]></path>
+		<path><![CDATA[chapters/Unit08/chapter18/9780199066438_Sst01_CV03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 19-20 :]]></name>
+		<path><![CDATA[chapters/Unit08/chapter19/9780199066438_Sst01_Ip02.swf]]></path>
+		<path><![CDATA[chapters/Unit08/chapter19/9780199066438_Sst01_Ip03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Important places and Transport]]></name>
+		<path><![CDATA[chapters/Unit08/chapter20/9780199066438_Sst01_Tnspt02.swf]]></path>
+		<path><![CDATA[chapters/Unit08/chapter20/9780199066438_Sst01_Tnspt03.swf]]></path>
+	</lesson>
+</unit>
+
+<mainFrame>
+	<text><![CDATA[Unit 2 : Clean and Healthy]]></text>
+	<text><![CDATA[Unit 3 : Where We Live]]></text>
+	<text><![CDATA[Unit 5 : Work and Jobs]]></text>
+	<text><![CDATA[Unit 7 : Plants and Animals]]></text>
+	<text><![CDATA[Unit 8 : City and Village Life]]></text>
+</mainFrame>
+
+</data>
+</framexml>

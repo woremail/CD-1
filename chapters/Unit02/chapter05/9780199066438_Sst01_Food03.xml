@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Food</B>]]></text>
+<text><![CDATA[Sort the food items. Click a food item and drag it to the correct box.]]></text>
+
+<text><![CDATA[<B>Food from animals</B>]]></text>
+<text><![CDATA[<B>Food we grow</B>]]></text>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct. Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is wrong.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Wow! That was]]></feedback>
+<feedback><![CDATA[excellent!]]></feedback>
+
+</data>
+</framexml>

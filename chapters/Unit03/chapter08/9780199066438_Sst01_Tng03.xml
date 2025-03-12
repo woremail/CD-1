@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Things</b>]]></text>
+<text><![CDATA[Listen to Bunny's instructions. Put each item in its proper place.]]></text>
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[Put the T-shirt in the cupboard.]]></feedback>
+<feedback><![CDATA[Put the books on the shelf.]]></feedback>
+<feedback><![CDATA[Put the pillow on the bed.]]></feedback>
+<feedback><![CDATA[Put the lamp on the table.]]></feedback>
+<feedback><![CDATA[Put the socks in the drawer.]]></feedback>
+<feedback><![CDATA[Put the pencils in the holder.]]></feedback>
+<feedback><![CDATA[Draw the curtains neatly.]]></feedback>
+<feedback><![CDATA[Pick up the chair.]]></feedback>
+
+<feedback><![CDATA[Thanks!]]></feedback>
+<feedback><![CDATA[Oh no! That's not the right place.]]></feedback>
+<feedback><![CDATA[Thank you!<BR>You are a great help!]]></feedback>
+
+</data>
+</framexml>

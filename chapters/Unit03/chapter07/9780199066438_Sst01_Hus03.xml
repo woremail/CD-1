@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Houses</b>]]></text>
+<!-- <text><![CDATA[Drag the correct building material to the house shown below.]]></text> -->
+<!-- <text><![CDATA[Help Imran to build the houses.<BR>Drag the correct building material to the box.]]></text>
+ -->
+<text><![CDATA[Help Imran to build the house.<BR>Drag the correct building material to the box.]]></text>
+<text><![CDATA[brick]]></text>
+<text><![CDATA[cement]]></text>
+<text><![CDATA[straw]]></text>
+<text><![CDATA[mud]]></text>
+<text><![CDATA[wood]]></text>
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too!]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>
